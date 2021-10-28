@@ -6,7 +6,7 @@ This project is part of Codecademy's [Web Develpoment](https://www.codecademy.co
 
 - Building Front-end Applications with React
   
-It is built in HTML, CSS, JavaScript, and ReactJS, using the [Yelp API](https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app) and [CORS anywhere](https://cors-anywhere.herokuapp.com/).
+It is built in HTML, CSS, JavaScript, and ReactJS, using the [Yelp API](https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app) and [CORS Anywhere](https://cors-anywhere.herokuapp.com/) (IMPORTANT: click on the link and follow the instructions to temporarily unlock access to the CORS Anywhere demo).
 
 ###### Preview
 
